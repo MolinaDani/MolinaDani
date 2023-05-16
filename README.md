@@ -2,12 +2,12 @@
 ### Soy Desarrollador web Full-Stack Junior 🎈
 <br>
 
-![Developer Image](img/emile-perron-xrVDYZRGdw4-unsplash.jpg)
+![Developer Image](img/dev-image.jpg)
 
 
 <hr>
 
-### Mi fuerte apunta mas al Front-End que al Back-end ✨
+### Mi fuerte apunta más al Front-End que al Back-end ✨
 #### Mis Aptitudes: 🔥
 <br>
 
@@ -25,6 +25,7 @@
 
 ### El primer Juego sencillo que realizo en React.js: 💙
 
-[Juego 3 en Linea!](https://juego-tres-en-linea.vercel.app/)
+[Juego 3 en Línea!](https://juego-tres-en-linea.vercel.app/)
 
+![Juego 3 en Línea!](img/game-image.png)
 
