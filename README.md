@@ -7,7 +7,7 @@
 
 <hr>
 
-### Mi fuerte apunta más al Front-End que al Back-end ✨
+### Mi fuerte apunta más al Front-End✨
 #### Mis Aptitudes: 🔥
 <br>
 
@@ -19,7 +19,10 @@
 - Node.js
 - Express.js
 - Next.js
+- Astro
 - Git
+- MySQL
+- MongoDB
 
 <hr>
 
